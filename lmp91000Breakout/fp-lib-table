@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name lmp)(type KiCad)(uri /home/orca/pprojects/viven/lmp91000Breakout/LMP91000SDE_NOPB)(options "")(descr ""))
+)
