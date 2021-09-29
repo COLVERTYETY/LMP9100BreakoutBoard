@@ -2,7 +2,7 @@
 
   (general
     (thickness 1.6)
-    (drawings 17)
+    (drawings 18)
     (tracks 94)
     (zones 0)
     (modules 16)
@@ -752,7 +752,10 @@
     )
   )
 
-  (gr_text "Nicolas STAS" (at 78.74 79.248) (layer F.Cu)
+  (gr_text 29/09/2021 (at 78.232 80.264) (layer F.Cu)
+    (effects (font (size 1 1) (thickness 0.25)))
+  )
+  (gr_text "Nicolas STAS" (at 78.232 78.232) (layer F.Cu)
     (effects (font (size 1.5 1.5) (thickness 0.3)))
   )
   (gr_text "LMP91000 BreakoutBoard\nby" (at 68.58 77.216) (layer F.SilkS)
